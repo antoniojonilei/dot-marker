@@ -13,3 +13,6 @@ Marcador de Cliques - práticad de ReactJs useState()
 
 ## Tecnologia
 - ReactJs (hook useState)
+- HTML
+- CSS
+- JavaScript
