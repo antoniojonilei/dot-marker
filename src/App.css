@@ -13,6 +13,7 @@
   width: 10px;
   height: 10px;
   background-color: #f9f9f9;
+  border-radius: 50%;
 
   position: absolute;
   top: 100px;
